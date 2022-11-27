@@ -1,0 +1,53 @@
+{
+	"types": {
+		"Hotel": {
+			"pluralLabel": "Hotels"
+		}
+	},
+
+	"items": [
+		{
+			"type": "Boarding_and_Stays",
+			"label": "The_Heritage_Hotel_Galle_Fort",
+			"Type" : "Hotel",
+			"Province": "Southern_Province",
+			"District": "Galle_District",
+			"City": "Galle",
+			"Address": "27,Church Street, Galle Fort,\nGalle",
+			"Contact No": "+94 91 222 8494",
+			"Email": "info@theheritage.lk",
+			"Web Site": "https://www.theheritage.lk/",
+			"Stars": "4",
+			"Wheel Chair Entry": "Yes"
+			
+		},
+		{
+						"type": "Boarding_and_Stays",
+			"label": "The_Heritage_Hotel_Galle_Fort",
+			"Type" : "Hotel",
+			"Province": "Southern_Province",
+			"District": "Galle_District",
+			"City": "Galle",
+			"Address": "27,Church Street, Galle Fort,\nGalle",
+			"Contact No": "+94 91 222 8494",
+			"Email": "info@theheritage.lk",
+			"Web Site": "https://www.theheritage.lk/",
+			"Stars": "4",
+			"Wheel Chair Entry": "Yes"
+		},
+		{
+						"type": "Boarding_and_Stays",
+			"label": "The_Heritage_Hotel_Galle_Fort",
+			"Type" : "Hotel",
+			"Province": "Southern_Province",
+			"District": "Galle_District",
+			"City": "Galle",
+			"Address": "27,Church Street, Galle Fort,\nGalle",
+			"Contact No": "+94 91 222 8494",
+			"Email": "info@theheritage.lk",
+			"Web Site": "https://www.theheritage.lk/",
+			"Stars": "4",
+			"Wheel Chair Entry": "Yes"
+		}
+		
+} ]

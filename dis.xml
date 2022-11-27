@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="District"/>
+  </head>
+  <results>
+    <result>
+      <binding name="District">
+        <uri>http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Puttalam_District</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="District">
+        <uri>http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Kilinochchi_District</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="District">
+        <uri>http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Kandy_District</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="District">
+        <uri>http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Kegalle_District</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="District">
+        <uri>http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Monaragala_District</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="District">
+        <uri>http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Anuradhapura_District</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="District">
+        <uri>http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Ratnapura_District</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="District">
+        <uri>http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Colombo_District</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="District">
+        <uri>http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Galle_District</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="District">
+        <uri>http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Mannar_District</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="District">
+        <uri>http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Vavuniya_District</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="District">
+        <uri>http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Mullaitivu_District</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="District">
+        <uri>http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Badulla_District</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="District">
+        <uri>http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Kurunegala_District</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="District">
+        <uri>http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Gampaha_District</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="District">
+        <uri>http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Jaffna_District</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="District">
+        <uri>http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Polonnaruwa_District</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="District">
+        <uri>http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Kalutara_District</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="District">
+        <uri>http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Trincomalee_District</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="District">
+        <uri>http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Matale_District</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="District">
+        <uri>http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Ampara_District</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="District">
+        <uri>http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Batticaloa_District</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="District">
+        <uri>http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Matara_District</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="District">
+        <uri>http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Nuwara_Eliya_District</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="District">
+        <uri>http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Hambantota_District</uri>
+      </binding>
+    </result>
+  </results>
+</sparql>

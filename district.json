@@ -1,0 +1,161 @@
+{
+  "head": {
+    "vars": [
+      "District"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "District": {
+          "type": "uri",
+          "value": "http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Puttalam_District"
+        }
+      },
+      {
+        "District": {
+          "type": "uri",
+          "value": "http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Kilinochchi_District"
+        }
+      },
+      {
+        "District": {
+          "type": "uri",
+          "value": "http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Kandy_District"
+        }
+      },
+      {
+        "District": {
+          "type": "uri",
+          "value": "http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Kegalle_District"
+        }
+      },
+      {
+        "District": {
+          "type": "uri",
+          "value": "http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Monaragala_District"
+        }
+      },
+      {
+        "District": {
+          "type": "uri",
+          "value": "http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Anuradhapura_District"
+        }
+      },
+      {
+        "District": {
+          "type": "uri",
+          "value": "http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Ratnapura_District"
+        }
+      },
+      {
+        "District": {
+          "type": "uri",
+          "value": "http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Colombo_District"
+        }
+      },
+      {
+        "District": {
+          "type": "uri",
+          "value": "http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Galle_District"
+        }
+      },
+      {
+        "District": {
+          "type": "uri",
+          "value": "http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Mannar_District"
+        }
+      },
+      {
+        "District": {
+          "type": "uri",
+          "value": "http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Vavuniya_District"
+        }
+      },
+      {
+        "District": {
+          "type": "uri",
+          "value": "http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Mullaitivu_District"
+        }
+      },
+      {
+        "District": {
+          "type": "uri",
+          "value": "http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Badulla_District"
+        }
+      },
+      {
+        "District": {
+          "type": "uri",
+          "value": "http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Kurunegala_District"
+        }
+      },
+      {
+        "District": {
+          "type": "uri",
+          "value": "http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Gampaha_District"
+        }
+      },
+      {
+        "District": {
+          "type": "uri",
+          "value": "http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Jaffna_District"
+        }
+      },
+      {
+        "District": {
+          "type": "uri",
+          "value": "http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Polonnaruwa_District"
+        }
+      },
+      {
+        "District": {
+          "type": "uri",
+          "value": "http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Kalutara_District"
+        }
+      },
+      {
+        "District": {
+          "type": "uri",
+          "value": "http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Trincomalee_District"
+        }
+      },
+      {
+        "District": {
+          "type": "uri",
+          "value": "http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Matale_District"
+        }
+      },
+      {
+        "District": {
+          "type": "uri",
+          "value": "http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Ampara_District"
+        }
+      },
+      {
+        "District": {
+          "type": "uri",
+          "value": "http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Batticaloa_District"
+        }
+      },
+      {
+        "District": {
+          "type": "uri",
+          "value": "http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Matara_District"
+        }
+      },
+      {
+        "District": {
+          "type": "uri",
+          "value": "http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Nuwara_Eliya_District"
+        }
+      },
+      {
+        "District": {
+          "type": "uri",
+          "value": "http://www.semanticweb.org/user/ontologies/2022/6/untitled-ontology-5#Hambantota_District"
+        }
+      }
+    ]
+  }
+}
